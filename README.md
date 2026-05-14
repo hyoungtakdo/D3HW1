@@ -21,4 +21,4 @@ The chart displays email counts by day using:
 
 Tak Do
 
-![Email Visualization](Email Visualization.png)
+![Email Visualization](Email.png)
